@@ -39,6 +39,9 @@ Figure 3 The number and proportion of classes in the Jiliang-3D dataset
 
 Figure 4 Real and Groundtruth in the Jiliang-3D dataset
 
+# Download link
+coming soon...
+
 # Reference
 Hu, Qingyong, et al. Towards semantic segmentation of urban-scale 3D point clouds: A dataset, benchmarks and challenges.
 Liu C, Zeng D, Akbar A, et al. Context-aware network for semantic segmentation toward large-scale point clouds in urban environments.
